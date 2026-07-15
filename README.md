@@ -2,8 +2,6 @@
 
 **Note:** This is the official implementation of the multi-robot autonomous exploration framework **URGE**.
 
-**Repository Status:** ⏳ The paper is  currently under review. The code will be released  publicly once the paper is accepted. 
-
 ## URGE
 
 Multi-robot autonomous exploration often suffers from low efficiency and high communication overhead. To address this, we propose an **U**nknown-**R**egion-**G**uided, collaboration- and communication-efficient autonomous **E**xploration framework (**URGE**), which introduces a sub-region-based environmental representation and information sharing scheme to enable task allocation that jointly optimizes cost and load, ultimately achieving spatially dispersed exploration.  The proposed framework is evaluated using five metrics through extensive comparisons with state-of-the-art (SOTA) methods, ablation studies, and real-world experiments. Compared with the SOTA methods, URGE improves exploration efficiency by **13.3%–45.6%** and reduces redundant exploration by **22.5%–51.5%**. 
