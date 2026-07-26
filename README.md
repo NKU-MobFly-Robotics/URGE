@@ -1,4 +1,4 @@
-# URGE: Efficient Decentralized MultiRobot Exploration Guided by Unknown Regions Under Limited Communication  
+# URGE: Efficient Decentralized Multirobot Exploration Guided by Unknown Regions Under Limited Communication  
 
 **Note:** This is the official implementation of the multirobot autonomous exploration framework **URGE**.
 
