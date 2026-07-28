@@ -1,8 +1,8 @@
 # URGE: Efficient Decentralized Multirobot Exploration Guided by Unknown Regions Under Limited Communication  
 
-**Note:** This is the official implementation of the multirobot autonomous exploration framework **URGE**.
+**Note:** This is the official implementation of the multirobot autonomous exploration framework **URGE**. The source code will be released after being organized.
 
-**Project Page:**https://nku-mobfly-robotics.github.io/urge_webpage/
+**Project Page:** https://nku-mobfly-robotics.github.io/urge_webpage/
 
 ## URGE
 
